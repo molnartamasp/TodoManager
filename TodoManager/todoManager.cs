@@ -11,7 +11,7 @@ namespace TodoManager
 
         List<Todo> todos = new List<Todo>();
 
-        public TodoManager() { }
+        public todoManager() { }
 
         public void Add(Todo todo)
         {
