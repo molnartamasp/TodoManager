@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace TodoManager
 {
-    public class todoManager
+    public class TodoManager
     {
 
         List<Todo> todos = new List<Todo>();
 
-        public todoManager() { }
+        public TodoManager() { }
 
         public void Add(Todo todo)
         {
