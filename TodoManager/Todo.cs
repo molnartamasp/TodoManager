@@ -13,5 +13,7 @@ namespace TodoManager
 
         public int Hours { get; set; }
 
+        public int Priority { get; set; }
+
     }
 }
